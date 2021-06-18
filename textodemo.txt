@@ -1,0 +1,8 @@
+Este es un texto demostrativo
+
+el editor de texto plano es maravilloso
+
+con solo usar el comando "code ." desde la consola, en el directorio correcto
+podemos abrir el folder de proyectos enteros de código con VSC
+
+Tengo que aprender muchas cosas...
