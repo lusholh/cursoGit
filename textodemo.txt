@@ -7,4 +7,6 @@ podemos abrir el folder de proyectos enteros de código con VSC
 
 Tengo que aprender muchas cosas...
 Por ahora voy a estar siguiendo dos cursos al mismo tiempo, creí que podría con más
-pero mi ritmo actual efectivo parece ser ese
+pero mi ritmo actual efectivo parece ser ese.
+
+Por cierto, mido 1.69 y eso se me hace hilarante
